@@ -1,0 +1,14 @@
+# 敏感数据防御配置：以下文件永远不进仓库
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.pdf
+*.zip
+.env
+*密码*
+*账号*
+*secret*
+*token*
+*.pem
+*.key

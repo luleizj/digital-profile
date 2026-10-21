@@ -3,10 +3,10 @@ AIGC:
   ContentProducer: '001191110102MAD55U9H0F10002'
   ContentPropagator: '001191110102MAD55U9H0F10002'
   Label: '1'
-  ProduceID: '2e5b679f-988c-44ea-8336-c0c3c99aed31'
-  PropagateID: '2e5b679f-988c-44ea-8336-c0c3c99aed31'
-  ReservedCode1: '51200757-7b3b-4437-ae07-a087713ba322'
-  ReservedCode2: '51200757-7b3b-4437-ae07-a087713ba322'
+  ProduceID: '9c40d7bd-52f8-48c9-83d2-b6be7ed3a783'
+  PropagateID: '9c40d7bd-52f8-48c9-83d2-b6be7ed3a783'
+  ReservedCode1: '77af38b8-c69e-4878-87da-18b522a839c7'
+  ReservedCode2: '77af38b8-c69e-4878-87da-18b522a839c7'
 ---
 
 # 个人数字档案（Personal Digital Profile）
@@ -23,13 +23,21 @@ AIGC:
 
 ## 智能体使用方式
 
-把下面三个链接的内容读入上下文，按其中的偏好与我对话：
+把下面三个链接的内容读入上下文，按其中的偏好与我对话。
+
+首选链接（CDN 镜像，多数网络环境可直连）：
+
+- https://cdn.jsdelivr.net/gh/luleizj/digital-profile@main/profile.md
+- https://cdn.jsdelivr.net/gh/luleizj/digital-profile@main/communication.md
+- https://cdn.jsdelivr.net/gh/luleizj/digital-profile@main/methodology.md
+
+备用链接（GitHub raw，部分网络环境可能无法直连）：
 
 - https://raw.githubusercontent.com/luleizj/digital-profile/main/profile.md
 - https://raw.githubusercontent.com/luleizj/digital-profile/main/communication.md
 - https://raw.githubusercontent.com/luleizj/digital-profile/main/methodology.md
 
-示例指令：请读取以上三个链接内容，之后按档案中的沟通偏好与我协作。
+示例指令：请读取以上链接内容，之后按档案中的沟通偏好与我协作。
 
 ## 声明
 
